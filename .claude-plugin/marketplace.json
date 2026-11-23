@@ -1,0 +1,11 @@
+{
+  "name": "mcp-autoboot",
+  "owner": { "name": "aibrewer" },
+  "plugins": [
+    {
+      "name": "mcp-autoboot",
+      "source": "./",
+      "description": "Checks, repairs and reconnects MCP servers at session start; token report, sign-in reminders, profiles, per-project disabling, and MCP suggestions."
+    }
+  ]
+}
