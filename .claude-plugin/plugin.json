@@ -1,0 +1,6 @@
+{
+  "name": "mcp-autoboot",
+  "version": "0.2.0",
+  "description": "Checks, repairs and reconnects MCP servers at start (blue banner); token report, sign-in reminders, profiles, per-project disabling, and MCP suggestions.",
+  "types": "./types/index.d.ts"
+}
